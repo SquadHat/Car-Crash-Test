@@ -1,0 +1,9 @@
+while true do
+wait(0.1) -- so the game doesn't crash
+local Folder = game.workspace.shakemyhand1010sCar; --/
+local NewName = "Dumbass";
+
+      if Folder.Name ~= NewName or (child.Name == "Chassis") then
+            Folder.Name = NewName;
+end
+end
